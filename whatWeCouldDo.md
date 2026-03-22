@@ -104,3 +104,4 @@ Analyzing the temporal patterns of events to predict future occurrences or to id
 **MITRE ATT&CK Correlation**: Map event_type and description to specific adversarial tactics (TTPs).
 - Why: Bridges the gap between pure Data Science and Domain Expertise, making the model's output actionable for security analysts.
 
+
